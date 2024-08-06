@@ -386,6 +386,9 @@ section {
 }
 
 /* CONTACT */
+.icon{
+    margin-left: 10px;
+}
 #contact {
     display: flex;
     justify-content: center;
