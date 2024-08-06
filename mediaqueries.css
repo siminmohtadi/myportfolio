@@ -1,3 +1,35 @@
+@media screen and (min-width:1400px) and ( max-width: 2900px) {
+    #profile {
+        height: 90vh;
+        margin-bottom: 10rem;
+    }
+    .about-containers{
+        flex-wrap: wrap;
+    }
+    .section__pic-container {
+        margin: auto 0;
+        margin-top: 0;
+      }
+
+      .section__pic-container {
+        width: 500px;
+        height: 500px;
+      }
+      h1 {
+        font-size: 3rem;
+      }
+      .section__text {
+        margin-top: 0;
+      }
+      #profile {
+        height: 50vh;
+        margin-bottom: 400px;
+      }
+      .about-details-container{
+        justify-content:flex-start;
+      }
+}
+
 @media screen and (max-width: 1400px) {
     #profile {
         height: 83vh;
@@ -6,9 +38,19 @@
     .about-containers{
         flex-wrap: wrap;
     }
+
+    .about-details-container{
+        justify-content:center;
+      }
+      section{
+        height: auto;
+      }
+      
+      
 }
 
 @media screen and (max-width: 1200px) {
+
     #desktop-nav {
         display: none;
     }
@@ -45,6 +87,7 @@
 
 
 @media screen and (max-width: 600px) {
+  
     #contact,
     footer {
         height: 40vh;
@@ -97,6 +140,10 @@
         font-size: 2rem;
     }
     .text-container {
-        text-align: justify;
+        text-align:justify;
+        padding: 20px;
+    }
+    .icon {
+        margin-left: 10px;
     }
 }

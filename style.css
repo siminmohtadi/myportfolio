@@ -317,6 +317,10 @@ section {
   .credential-btn:hover{
     background-color: rgb(63,63,63);
   }
+  .text-container{
+    
+    text-align: center;
+  }
 
   /* EXPERIENCE SECTION*/
 
