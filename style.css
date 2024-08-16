@@ -280,7 +280,11 @@ section {
     color: rgb(39,213,248);
     border: rgb(39,213,248) 0.1rem solid;
 }
-
+.btn-red{
+    background-color: rgb(63,63,63);
+    color: white;
+    border: none;
+}
 /* ABOUT SECTION*/
 
 
