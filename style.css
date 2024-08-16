@@ -249,7 +249,12 @@ section {
 .btn-container {
     gap: 1rem;
 }
+.btn-color-blue{
+    background-color: rgb(39,213,248);
+    border: none;
+    color: white;
 
+}
 
 /* ABOUT SECTION*/
 
