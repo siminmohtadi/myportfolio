@@ -273,6 +273,14 @@ section {
     color: white;
 }
 
+
+.btn-color-blue-outline:active{
+    
+    background-color:white;
+    color: rgb(39,213,248);
+    border: rgb(39,213,248) 0.1rem solid;
+}
+
 /* ABOUT SECTION*/
 
 
