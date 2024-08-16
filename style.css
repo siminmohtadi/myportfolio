@@ -281,6 +281,11 @@ section {
     border: rgb(39,213,248) 0.1rem solid;
 }
 .btn-red{
+    background-color: #d23e2e;
+    color: white;
+    border: none;
+}
+.btn-gray{
     background-color: rgb(63,63,63);
     color: white;
     border: none;
@@ -464,8 +469,11 @@ section {
 footer {
     height: 26vh;
     margin: 0 1rem;
+    background-color: rgb(39,213,248);
+    color: white;
 
 }
 footer p {
     text-align: center;
+    color: white;
 }
