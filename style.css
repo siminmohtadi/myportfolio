@@ -255,6 +255,23 @@ section {
     color: white;
 
 }
+.btn-color-blue:hover{
+    cursor: pointer;
+    background-color: rgb(12, 176, 209);
+}
+
+.btn-color-blue-outline{
+    
+    border: rgb(39,213,248) 0.1rem solid;
+    color: rgb(39,213,248);
+
+}
+
+.btn-color-blue-outline:hover{
+    cursor: pointer;
+    background-color:rgb(39,213,248);
+    color: white;
+}
 
 /* ABOUT SECTION*/
 
