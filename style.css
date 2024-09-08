@@ -250,26 +250,26 @@ section {
     gap: 1rem;
 }
 .btn-color-blue{
-    background-color: rgb(39,213,248);
+    background-color: rgb(0, 60, 120);
     border: none;
     color: white;
 
 }
 .btn-color-blue:hover{
     cursor: pointer;
-    background-color: rgb(12, 176, 209);
+    background-color: rgb(0, 60, 120);
 }
 
 .btn-color-blue-outline{
     
-    border: rgb(39,213,248) 0.1rem solid;
-    color: rgb(39,213,248);
+    border: rgb(0, 60, 120) 0.1rem solid;
+    color: rgb(0, 60, 120);
 
 }
 
 .btn-color-blue-outline:hover{
     cursor: pointer;
-    background-color:rgb(39,213,248);
+    background-color:rgb(0, 60, 120);
     color: white;
 }
 
@@ -277,8 +277,8 @@ section {
 .btn-color-blue-outline:active{
     
     background-color:white;
-    color: rgb(39,213,248);
-    border: rgb(39,213,248) 0.1rem solid;
+    color: rgb(0, 60, 120);
+    border: rgb(0, 60, 120) 0.1rem solid;
 }
 .btn-red{
     background-color: #d23e2e;
